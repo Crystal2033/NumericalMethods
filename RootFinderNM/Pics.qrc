@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>devIcon.png</file>
+        <file>PlotIcon.png</file>
+    </qresource>
+</RCC>
