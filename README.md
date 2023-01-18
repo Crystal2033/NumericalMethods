@@ -20,9 +20,11 @@
 <img width="1272" alt="mnk1" src="https://user-images.githubusercontent.com/90513443/213263401-7f5fa9cf-b451-41a8-a242-6de0a558ee6a.PNG">
 
 
-<H1>3. C-Spline interpolation with defect 1. (m=3, r=1).</H1>
+<H1>4. C-Spline interpolation with defect 1. (m=3, r=1).</H1>
 
 <img width="1274" alt="spline1" src="https://user-images.githubusercontent.com/90513443/213263533-d75ea9f9-656b-4d4f-ab33-bc7ef7f8186c.PNG">
 <img width="1275" alt="spline2" src="https://user-images.githubusercontent.com/90513443/213263535-3be636ce-f412-4b41-a6ec-49de123842e4.PNG">
 <img width="1272" alt="spline3" src="https://user-images.githubusercontent.com/90513443/213263537-aa736907-dcbe-42c1-b12a-601168e22d03.PNG">
 <img width="1276" alt="spline4" src="https://user-images.githubusercontent.com/90513443/213263530-3338827b-1028-4230-8602-8eb77d266dbd.PNG">
+
+<H1>Other programs made with VS in console.</H1>
